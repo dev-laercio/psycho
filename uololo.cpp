@@ -14,5 +14,6 @@ using namespace vmime;
 int main() {
 
     return 0;
+    cout << "fuck the system" << endl;
 }
 
